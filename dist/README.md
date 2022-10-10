@@ -1,9 +1,9 @@
 
-  # My project
-  
+  # My New Project
+  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
   ## Description
-  this is a brief description
+  This is a description of the project, I learned many things and used many skills.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -17,16 +17,18 @@
   N/A
 
   ## Usage
-  N/A
+  To use this application, follow the instructions.
 
   ## Contributing
   N/A
 
   ## Tests
-  N/A
+  Please see the testing guidelines.
 
   ## Questions
-  Feel free to visit my [GitHub profile](https://github.com/amaragh) to review my published work. I can also be contacted by [email](mailto:email). 
+  Feel free to visit my [GitHub profile](https://github.com/amaragh) to review my published work. I can also be contacted by [email](mailto:mercer.alecia@gmail.com). 
 
   
+  ## License
+  [GPL](https://www.gnu.org/licenses/gpl-3.0)
   
