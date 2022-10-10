@@ -14,6 +14,8 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ## Questions
+  Feel free to visit my [GitHub profile](https://github.com/${data.github}) to review my published work. I can also be contacted by [email](mailto:${data.email}). 
 `;
 }
 
