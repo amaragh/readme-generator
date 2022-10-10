@@ -32,11 +32,29 @@ const questions = [
             }
         }
     },
-
     {
         type: 'input',
         name: 'installation',
         message: 'What are the steps required to install your project?',
+        default: 'N/A'
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'What are the the instructions and examples for use of your project?',
+        default: 'N/A'
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'How can others contribute your project?',
+        default: 'N/A'
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'What are the guidelines for testing your project?',
+        default: 'N/A'
     },
     {
         type: 'input',
