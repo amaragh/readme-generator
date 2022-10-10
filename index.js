@@ -82,6 +82,12 @@ const questions = [
             }
         }
     },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'Which of the following licenses applies to your project?',
+        choices: ['Apache', 'MIT', 'GPL','N/A'],
+    },
 ];
 
 // TODO: Create a function to write README file
@@ -112,5 +118,5 @@ init()
         return generateMarkdown(responseData);
     })
     .then(writeMdResponse => {
-        writeToFile('README.md', writeMdResponse)
+        return writeToFile('README.md', writeMdResponse)
     });

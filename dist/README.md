@@ -1,6 +1,9 @@
 
-  # My Project
+  # My project
+  
+
   ## Description
+  this is a brief description
 
   ## Table of Contents
   - [Installation](#installation)
@@ -11,12 +14,10 @@
   - [Questions](#questions)
 
   ## Installation
-  very long thank y
+  N/A
 
   ## Usage
   N/A
-
-  ## License
 
   ## Contributing
   N/A
@@ -25,5 +26,7 @@
   N/A
 
   ## Questions
-  Feel free to visit my [GitHub profile](https://github.com/amaragh) to review my published work. I can also be contacted by [email](mailto:email@email.com). 
+  Feel free to visit my [GitHub profile](https://github.com/amaragh) to review my published work. I can also be contacted by [email](mailto:email). 
+
+  
   
