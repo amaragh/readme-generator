@@ -19,6 +19,7 @@ To invoke and use the application from the command line, please follow the below
 2. Run the command `node index`.
 
 ![Command to invoke app](./assets/images/invoke-app.png)
+
 3. Answer each of the prompts as directed.
    - For required fields, a validation message will appear if nothing is entered.
    ![Validation for requied field](./assets/images/required.png)
