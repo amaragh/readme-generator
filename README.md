@@ -17,6 +17,7 @@ The demo recording can be found [here](https://youtu.be/5PoZYLOz7u8).
 To invoke and use the application from the command line, please follow the below steps:
 1. From the command line, navigate to project root directory. 
 2. Run the command `node index`.
+
 ![Command to invoke app](./assets/images/invoke-app.png)
 3. Answer each of the prompts as directed.
    - For required fields, a validation message will appear if nothing is entered.
