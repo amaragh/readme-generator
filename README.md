@@ -23,10 +23,10 @@ To invoke and use the application from the command line, please follow the below
    ![Validation for requied field](./assets/images/required.png)
    - The answers promptd will appear similar to the below once complete.
    ![Terminal when prompts are exhausted](./assets/images/prompts-complete.png)
-4. Once all prompts are exhausted, navigate to the `dist` folder in the repository to view your generated README file.
+4. Once all prompts are exhausted, navigate to the `dist` folder in the repository to view your generated README file. 
    - The file will appear in the markdown format
    ![Generated README in markdown format](./assets/images/raw-readme.png)
-   - A preview of the file can also be viewed.
+   - A preview of the file can also be viewed. A badge for the chosen license will appear near the top of the README.
    ![Preview of generated README](./assets/images/readme-preview.png)
 
 
