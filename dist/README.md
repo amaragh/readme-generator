@@ -1,9 +1,9 @@
 
-  # My New Project
-  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+  # New Project Title
+  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
   ## Description
-  This is a description of the project, I learned many things and used many skills.
+  This is a sample descripion
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,21 +14,21 @@
   - [Questions](#questions)
 
   ## Installation
-  N/A
+  Folow these steps to install.
 
   ## Usage
-  To use this application, follow the instructions.
-
-  ## Contributing
   N/A
 
+  ## Contributing
+  Contribute in the following ways.
+
   ## Tests
-  Please see the testing guidelines.
+  Test as directed here.
 
   ## Questions
   Feel free to visit my [GitHub profile](https://github.com/amaragh) to review my published work. I can also be contacted by [email](mailto:mercer.alecia@gmail.com). 
 
   
   ## License
-  [GPL](https://www.gnu.org/licenses/gpl-3.0)
+  [Apache](https://opensource.org/licenses/Apache-2.0)
   
